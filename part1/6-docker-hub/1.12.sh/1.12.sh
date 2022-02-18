@@ -1,2 +1,2 @@
-docker build . -t react-app
-docker run -it -p 5000:5000 react-app
+docker build . -t frontend
+docker run -it -p 5000:5000 frontend
