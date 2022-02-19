@@ -4,3 +4,5 @@
 /part1/6-docker-hub/1.14.sh/backend
 /part1/6-docker-hub/material-applications
 /part2/2-docker-networking/02.5.sh/app
+/part3-using-non-root-user/frontend
+/part3-using-non-root-user/backend
